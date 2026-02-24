@@ -71,4 +71,4 @@ python gui.py
 
 ## 👨‍💻 Author
 
-RootSyntax-Dev
+**RootSyntax-Dev**
