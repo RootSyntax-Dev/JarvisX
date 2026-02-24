@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+pywhatkit
+wikipedia
+pyjokes
+psutil
+sounddevice
+numpy
+wavio
