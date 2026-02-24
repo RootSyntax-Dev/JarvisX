@@ -71,5 +71,4 @@ python gui.py
 
 ## 👨‍💻 Author
 
-Vinay
-Computer Science (AI/ML) Student
+RootSyntax-Dev
