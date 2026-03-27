@@ -6,14 +6,12 @@
   <img src="https://img.shields.io/badge/Speech-Recognition-brightgreen?style=for-the-badge" />
 </p>
 
----
 
 ## 🚀 About the Project
 
 **JarvisX** is a powerful desktop voice assistant built using Python.  
 It bridges the gap between you and your machine by listening to commands, responding with speech, and automating daily system tasks.
 
----
 
 ## ✨ Features
 
@@ -24,7 +22,6 @@ It bridges the gap between you and your machine by listening to commands, respon
 - 😂 **Entertainment** — Joke generator & basic conversations  
 - 🖥️ **App Control** — Open apps like Chrome, Notepad, etc.  
 
----
 
 ## 🛠️ Technologies Used
 
@@ -34,7 +31,6 @@ It bridges the gap between you and your machine by listening to commands, respon
 - **Automation:** PyWhatKit, Wikipedia API  
 - **System Monitoring:** Psutil  
 
----
 
 ## ⚡ Quick Start
 
@@ -71,6 +67,7 @@ python gui.py
 ```
 
 ## 👤 Author
+```bash
 
 Vinay Shah
 🎓 Final Year B.Tech (CSE - AIML)
@@ -80,6 +77,5 @@ Vinay Shah
 
 🔗 LinkedIn: https://www.linkedin.com/in/vinay-py-dev/
 
-```bash
 <p align="center"> Developed with ❤️ by <b>RootSyntax-Dev</b> </p>
 ```
