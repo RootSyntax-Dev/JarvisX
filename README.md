@@ -1,74 +1,83 @@
 # 🤖 JarvisX — Python Voice Assistant
 
-JarvisX is a desktop voice assistant built using Python.
-It can listen to voice commands, respond with speech, open applications, search the web, and perform system tasks.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-007ACC?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Speech-Recognition-brightgreen?style=for-the-badge" />
+</p>
+
+**JarvisX** is a powerful desktop voice assistant built using Python. It bridges the gap between you and your machine by listening to commands, responding with speech, and automating daily system tasks.
+
+---
 
 ## ✨ Features
 
-* 🎤 Voice command recognition
-* 🔊 Text-to-speech responses
-* ⏰ Time & date information
-* 🔋 Battery & CPU status
-* 🌐 Web search
-* 😂 Joke generator
-* 📚 Wikipedia information
-* 🖥️ Open desktop apps (Notepad, Chrome, etc.)
-* 🧠 Natural conversation commands
+* 🎤 **Voice Recognition:** High-accuracy command processing.
+* 🔊 **Offline TTS:** Text-to-speech responses using `pyttsx3`.
+* 🔋 **System Monitor:** Real-time Battery & CPU status updates.
+* 🌐 **Web Automation:** Instant web searches and Wikipedia summaries.
+* 😂 **Entertainment:** Built-in joke generator and conversational AI.
+* 🖥️ **App Control:** Launch desktop applications like Chrome, Notepad, etc.
+
+---
 
 ## 🛠️ Technologies Used
 
-* Python
-* Tkinter (GUI)
-* SpeechRecognition
-* Pyttsx3 (offline TTS)
-* PyWhatKit
-* Wikipedia API
-* Psutil
+- **Core:** `Python`
+- **GUI:** `Tkinter`
+- **Voice Engine:** `SpeechRecognition`, `Pyttsx3`
+- **Automation:** `PyWhatKit`, `Wikipedia API`
+- **System:** `Psutil`
 
-## ▶️ How to Run
+---
 
-1. Clone the repository
+## ▶️ Quick Start
 
-```
-git clone https://github.com/yourusername/JarvisX.git
+1️⃣ **Clone the repository**
+```bash
+git clone [https://github.com/RootSyntax-Dev/JarvisX.git](https://github.com/RootSyntax-Dev/JarvisX.git)
 cd JarvisX
-```
 
-2. Create virtual environment
+2️⃣ Setup Environment
 
-```
+Bash
 python -m venv .venv
-```
-
-3. Activate
-
-Windows:
-
-```
+# Activate on Windows:
 .venv\Scripts\activate
-```
+3️⃣ Install Dependencies
 
-4. Install dependencies
-
-```
+Bash
 pip install -r requirements.txt
-```
+4️⃣ Launch JarvisX
 
-5. Run JarvisX
-
-```
+Bash
 python gui.py
-```
+📌 Example Commands
+🗣️ "Hello Jarvis"
 
-## 📌 Example Commands
+🗣️ "Open Notepad"
 
-* "Hello Jarvis"
-* "Open Notepad"
-* "What is the time"
-* "Tell me a joke"
-* "Search Python tutorial"
-* "Battery status"
+🗣️ "What is the time?"
 
-## 👨‍💻 Author
+🗣️ "Search Python tutorial"
 
-**RootSyntax-Dev**
+👤 Author
+Vinay Kumar Shah
+
+🎓 Final Year B.Tech Student (CSE-AIML)
+
+💻 Passionate Developer & AI Enthusiast
+
+🌐 GitHub: @RootSyntax-Dev
+
+<p align="center">
+
+
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/vinay-py-dev/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+
+
+
+Developed with ❤️ by <b>RootSyntax-Dev</b>
+</p>
