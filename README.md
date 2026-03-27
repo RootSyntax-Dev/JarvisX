@@ -76,6 +76,6 @@ Vinay Shah
 🔗 GitHub: https://github.com/RootSyntax-Dev
 
 🔗 LinkedIn: https://www.linkedin.com/in/vinay-py-dev/
+```
 
 <p align="center"> Developed with ❤️ by <b>RootSyntax-Dev</b> </p>
-```
