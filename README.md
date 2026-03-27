@@ -69,7 +69,7 @@ python gui.py
 ## 👤 Author
 
 Vinay Shah
-```bash
+
 🎓 Final Year B.Tech (CSE - AIML)
 💻 Passionate Developer & AI Enthusiast
 
